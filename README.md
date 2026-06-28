@@ -1,7 +1,6 @@
 # 🚀 MERN Task Tracker App
 
-A full-stack Task Tracker application built using the MERN Stack. This project allows users to create, view, update, complete, and delete daily tasks with a clean and responsive interface.
-
+A modern full-stack task management application built with the MERN Stack (MongoDB, Express.js, React.js, and Node.js). It allows users to create, view, update, mark tasks as completed, and delete tasks through a clean and responsive interface. The project demonstrates CRUD operations, REST API integration, MongoDB Atlas connectivity, and seamless frontend-backend communication.
 ---
 
 ## 📸 Project Screenshot
