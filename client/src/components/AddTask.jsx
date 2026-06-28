@@ -10,7 +10,7 @@ function AddTask() {
 
     try {
       const res = await axios.post(
-        "http://localhost:5000/api/tasks",
+        "https://mern-task-tracker-api-v01o.onrender.com/api/tasks",
         {
           title,
           description,
